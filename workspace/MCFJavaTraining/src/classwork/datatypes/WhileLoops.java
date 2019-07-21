@@ -1,0 +1,10 @@
+package classwork.datatypes;
+
+public class WhileLoops {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
